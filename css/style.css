@@ -268,6 +268,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 .main-page .sidebar .control .genre .item .play object {
   margin-left: 13px;
+  width:20px;
 }
 .main-page .sidebar .music {
   padding: 14px 14px 55px 14px;
